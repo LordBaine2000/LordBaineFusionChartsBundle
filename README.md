@@ -14,7 +14,7 @@ FusionCharts XT (v3.3.1 - Service Release 2)
 {
     "require": {
         // ...
-        "lord-baine/fusion-charts-bundle": "dev-master"
+        "lordbaine/fusion-charts-bundle": "dev-master"
     }
 }
 ```
@@ -37,7 +37,7 @@ public function registerBundles()
 ### Download the bundle using Composer
 
 ``` bash
-$ php composer.phar update lord-baine/fusion-charts-bundle
+$ php composer.phar update lordbaine/fusion-charts-bundle
 ```
 
 ### Install assets

@@ -1,5 +1,5 @@
 {
-    "name":        "lord-baine/fusion-charts-bundle",
+    "name":        "lordbaine/fusion-charts-bundle",
     "type":        "symfony-bundle",
     "description": "FusionCharts Bundle for Symfony2",
     "keywords":    ["fusioncharts", "symfony"],
