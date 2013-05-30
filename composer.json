@@ -1,0 +1,22 @@
+{
+    "name":        "lord-baine/fusion-charts-bundle",
+    "type":        "symfony-bundle",
+    "description": "FusionCharts Bundle for Symfony2",
+    "keywords":    ["fusioncharts", "symfony"],
+    "authors":     [
+        {
+            "name":     "Casey Coones",
+            "email":    "baineblade@hotmail.com",
+            "homepage": "https://github.com/LordBaine2000"
+        }
+    ],
+    "require":     {
+        "symfony/framework-bundle": ">=2.1"
+    },
+    "autoload":    {
+        "psr-0": {
+            "LordBaine\\FusionChartsBundle": ""
+        }
+    },
+    "target-dir":  "LordBaine/FusionChartsBundle"
+}
